@@ -1,0 +1,117 @@
+body
+{
+    background-color:black;
+    color:white;
+
+}
+
+
+
+
+
+
+
+.top
+{
+    display:flex;
+    justify-content:space-between;
+
+
+}
+
+a
+{
+    margin-left: 50px;
+    margin-right:50px;
+    color:white;
+
+}
+
+#welcome
+{
+
+
+    font-size: 150px;
+}
+main
+{
+    margin-top: 200px;
+    margin-bottom:25%;
+    text-align:center;
+
+}
+
+footer{
+
+
+    text-align:center;
+}
+
+#selfie
+{
+    width:500px;
+    height:500px;
+    border-radius:250px;
+
+}
+
+#about
+{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    text-align:center;
+}
+
+#contact
+{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.icon
+{
+    height:100px;
+    width:100px;
+}
+
+#social
+{
+    display:flex;
+    justify-content:space-between;
+
+    margin-top:200px;
+
+}
+
+button
+{
+    margin:30px;
+}
+
+.card
+{
+    color:black;
+    margin:50px;
+}
+
+.round
+{
+    height:100px;
+    width:100px;
+    border-radius:50px;
+    font-weight:bold;
+    text-align:center;
+}
+
+#exampleFormControlInput1
+{
+ padding-left:100px;
+ padding-right:100px;
+}
+
+#exampleFormControlTextarea1
+{
+    padding:200px;
+}
